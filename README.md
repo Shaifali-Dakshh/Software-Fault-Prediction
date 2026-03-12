@@ -1,3 +1,4 @@
+This project is tested with BrowserStack.
 Software Fault Prediction
 Overview
 The Software Fault Prediction system uses machine learning techniques to predict potential defects in software code. By analyzing code metrics and applying classification algorithms, it aims to identify areas of the codebase that are likely to contain faults, enabling proactive quality assurance and risk mitigation in software development.
